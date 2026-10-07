@@ -1,0 +1,338 @@
+{
+  "typeMatches": [
+    {
+      "matchType": "International",
+      "seriesMatches": [
+        {
+          "seriesAdWrapper": {
+            "seriesId": 13110,
+            "seriesName": "India tour of Japan, 2026",
+            "matches": [
+              {
+                "matchInfo": {
+                  "matchId": 171477,
+                  "seriesId": 13110,
+                  "seriesName": "India tour of Japan, 2026",
+                  "matchDesc": "One-off T20I",
+                  "matchFormat": "T20",
+                  "startDate": "1790049600000",
+                  "endDate": "1790062200000",
+                  "state": "Complete",
+                  "status": "India won by 2 runs  -  5 over game due to wet outfield",
+                  "team1": {
+                    "teamId": 2,
+                    "teamName": "India",
+                    "teamSName": "IND",
+                    "imageId": 776162
+                  },
+                  "team2": {
+                    "teamId": 547,
+                    "teamName": "Japan",
+                    "teamSName": "JPN",
+                    "imageId": 248418
+                  },
+                  "venueInfo": {
+                    "id": 983,
+                    "ground": "Sano International Cricket Ground",
+                    "city": "Sano, Kanto",
+                    "timezone": "+09:00",
+                    "latitude": "36.3144",
+                    "longitude": "139.5784"
+                  },
+                  "currBatTeamId": 2,
+                  "seriesStartDt": "1790035200000",
+                  "seriesEndDt": "1790208000000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Complete",
+                  "hideScoreStatus": "Match completed"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 32,
+                      "wickets": 4,
+                      "overs": 4.6
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 30,
+                      "wickets": 3,
+                      "overs": 4.6
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "seriesAdWrapper": {
+            "seriesId": 13053,
+            "seriesName": "North American Cup, 2026",
+            "matches": [
+              {
+                "matchInfo": {
+                  "matchId": 170780,
+                  "seriesId": 13053,
+                  "seriesName": "North American Cup, 2026",
+                  "matchDesc": "2nd Match",
+                  "matchFormat": "T20",
+                  "startDate": "1790015400000",
+                  "endDate": "1790028000000",
+                  "state": "Complete",
+                  "status": "Match postponed",
+                  "team1": {
+                    "teamId": 1018,
+                    "teamName": "Bahamas",
+                    "teamSName": "BHM",
+                    "imageId": 248394
+                  },
+                  "team2": {
+                    "teamId": 1020,
+                    "teamName": "Cayman Islands",
+                    "teamSName": "CAYM",
+                    "imageId": 248399
+                  },
+                  "venueInfo": {
+                    "id": 892,
+                    "ground": "Jimmy Powell Oval",
+                    "city": "George Town",
+                    "timezone": "-05:00",
+                    "latitude": "19.286932",
+                    "longitude": "-81.367439"
+                  },
+                  "seriesStartDt": "1789862400000",
+                  "seriesEndDt": "1790726400000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Abandon",
+                  "hideScoreStatus": "Match abandoned"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "matchType": "Domestic",
+      "seriesMatches": [
+        {
+          "seriesAdWrapper": {
+            "seriesId": 12723,
+            "seriesName": "Australia Domestic One-Day Cup 2026-27",
+            "matches": [
+              {
+                "matchInfo": {
+                  "matchId": 167060,
+                  "seriesId": 12723,
+                  "seriesName": "Australia Domestic One-Day Cup 2026-27",
+                  "matchDesc": "4th Match",
+                  "matchFormat": "ODI",
+                  "startDate": "1790049600000",
+                  "endDate": "1790078400000",
+                  "state": "In Progress",
+                  "status": "New South Wales need 180 runs",
+                  "team1": {
+                    "teamId": 164,
+                    "teamName": "Queensland",
+                    "teamSName": "QL",
+                    "imageId": 172233
+                  },
+                  "team2": {
+                    "teamId": 104,
+                    "teamName": "New South Wales",
+                    "teamSName": "NSW",
+                    "imageId": 172196
+                  },
+                  "venueInfo": {
+                    "id": 300,
+                    "ground": "Allan Border Field",
+                    "city": "Brisbane",
+                    "timezone": "+10:00",
+                    "latitude": "-27.435145",
+                    "longitude": "153.046143"
+                  },
+                  "currBatTeamId": 104,
+                  "seriesStartDt": "1789689600000",
+                  "seriesEndDt": "1802736000000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "In Progress",
+                  "hideScoreStatus": "Match in progress"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 358,
+                      "wickets": 10,
+                      "overs": 49.5
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 179,
+                      "wickets": 3,
+                      "overs": 22.6
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "ad": {
+            "name": "native_matches",
+            "layout": "native_large",
+            "position": 3
+          }
+        },
+        {
+          "seriesAdWrapper": {
+            "seriesId": 12184,
+            "seriesName": "Australia A tour of India 2026",
+            "matches": [
+              {
+                "matchInfo": {
+                  "matchId": 155411,
+                  "seriesId": 12184,
+                  "seriesName": "Australia A tour of India 2026",
+                  "matchDesc": "1st unofficial Test",
+                  "matchFormat": "TEST",
+                  "startDate": "1790049600000",
+                  "endDate": "1790334000000",
+                  "state": "In Progress",
+                  "status": "Day 1: 3rd Session",
+                  "team1": {
+                    "teamId": 78,
+                    "teamName": "India A",
+                    "teamSName": "INDA",
+                    "imageId": 776181
+                  },
+                  "team2": {
+                    "teamId": 79,
+                    "teamName": "Australia A",
+                    "teamSName": "AUSA",
+                    "imageId": 776204
+                  },
+                  "venueInfo": {
+                    "id": 543,
+                    "ground": "Cricket Association Puducherry Siechem Ground",
+                    "city": "Puducherry",
+                    "timezone": "+05:30",
+                    "latitude": "11.912200",
+                    "longitude": "79.737396"
+                  },
+                  "currBatTeamId": 78,
+                  "seriesStartDt": "1790035200000",
+                  "seriesEndDt": "1791849600000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "In Progress",
+                  "hideScoreStatus": "Match in progress"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 187,
+                      "wickets": 5,
+                      "overs": 62.5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "matchType": "Women",
+      "seriesMatches": [
+        {
+          "seriesAdWrapper": {
+            "seriesId": 12602,
+            "seriesName": "Women's Asian Games 2026",
+            "matches": [
+              {
+                "matchInfo": {
+                  "matchId": 170963,
+                  "seriesId": 12602,
+                  "seriesName": "Women's Asian Games 2026",
+                  "matchDesc": "Final",
+                  "matchFormat": "T20",
+                  "startDate": "1790053200000",
+                  "endDate": "1790065800000",
+                  "state": "Complete",
+                  "status": "India Women won by 147 runs",
+                  "team1": {
+                    "teamId": 97,
+                    "teamName": "India Women",
+                    "teamSName": "INDW",
+                    "imageId": 776182
+                  },
+                  "team2": {
+                    "teamId": 258,
+                    "teamName": "Sri Lanka Women",
+                    "teamSName": "SLW",
+                    "imageId": 776267
+                  },
+                  "venueInfo": {
+                    "id": 1438323,
+                    "ground": "Korogi Sports Park",
+                    "city": "Nisshin",
+                    "timezone": "+09:00",
+                    "latitude": "35.1652145",
+                    "longitude": "137.046256"
+                  },
+                  "currBatTeamId": 97,
+                  "seriesStartDt": "1789603200000",
+                  "seriesEndDt": "1790208000000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "INDW Won",
+                  "isFantasyEnabled": true,
+                  "hideScoreStatus": "Match completed"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 216,
+                      "wickets": 3,
+                      "overs": 19.6
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 69,
+                      "wickets": 10,
+                      "overs": 15.4
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "filters": {
+    "matchType": [
+      "International",
+      "League",
+      "Domestic",
+      "Women"
+    ]
+  },
+  "appIndex": {
+    "seoTitle": "Live Cricket Score - Scorecard and Match Results",
+    "webURL": "www.cricbuzz.com/live-cricket-scores/"
+  },
+  "responseLastUpdated": "1790069890"
+}
